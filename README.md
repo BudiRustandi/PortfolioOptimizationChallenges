@@ -47,14 +47,28 @@ This repository contains hands-on challenges focused on **Modern Portfolio Optim
 - Select one challenge that interests you and complete it.
 - Feel free to modify the code and experiment with your own ideas.
 
-## Submission Guidelines 
-
-- Fork this repository and create a branch for your solution.
-- Save your solution in a new folder named with your username (e.g., solutions/your-username).
-- Submit a pull request to this repository for review.
 
 ## Requirements
 
 Python 3.8+: Ensure you have Python installed.
 
 Required Libraries: numpy, pandas, matplotlib, scipy (for optimization tasks)
+## Submission Guidelines
+
+To submit your work, follow these steps:
+
+1. Complete the workshop code as well as your chosen challenge using Google Colab or any other environment.
+2. Save your work and generate a shareable link to your Google Colab notebook.
+3. Go to the **Discussions** section of this repository.
+4. Create a new discussion thread with the following format:
+   - **Title**: Submission - [Your Name] - [Challenge Name]
+   - **Body**:
+     ```markdown
+     Name: [Your Full Name]  
+     Email: [Your Email Address]  
+     Challenge: [Challenge Name]  
+     Google Colab Link: [Your Shareable Link]  
+     Comments/Feedback: [Optional - Any insights or challenges you faced]  
+     ```
+5. Post your discussion thread, and feel free to browse other submissions for inspiration or collaboration!
+
